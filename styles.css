@@ -12,7 +12,6 @@ body {
 main {
   background-color: hsl(0, 0%, 20%);
   margin: 75px auto;
-  max-width: 50%; 
   height: 80vh;
   border-radius: 11px;
 }
@@ -54,4 +53,22 @@ a {
   text-decoration: none;
   color: #007BFF;
 }
+
+@media screen and (max-width: 428px) {
+  
+
+  .slackmajor {
+    margin-top: 30px; /* Adjusted margin-top for smaller screens */
+  }
+
+  h1 {
+    font-size: 20px; /* Reduced font size for better readability */
+  }
+
+  ul li {
+    padding: 10px; /* Reduced padding for better compactness */
+    font-size: 14px; /* Reduced font size for better readability */
+  }
+}
+
 
