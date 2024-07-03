@@ -1,2 +1,1 @@
-# HNG-personal-website
-# HNG-personal-website
+This is a personal website
